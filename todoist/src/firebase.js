@@ -8,7 +8,7 @@ const firebaseConfig = firebase.initializeApp({
     projectId: "todoist-dakojr",
     storageBucket: "todoist-dakojr.appspot.com",
     messagingSenderId: "772756268635",
-    appId: "1:772756268635:web:ee7dba71a89ffb15"
+    appId: "1:772756268635:web:ee7dba71a89ffb15"    
 })
 
 export {firebaseConfig as firebase };
